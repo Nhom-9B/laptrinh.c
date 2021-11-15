@@ -4,7 +4,7 @@
 
 int main()
 {
-	int a,b;
+	int a,b;// bài của Đạt
 
   printf("Nhap A = ");
   scanf("%d",&a);
